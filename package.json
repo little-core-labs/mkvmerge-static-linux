@@ -1,0 +1,26 @@
+{
+  "name": "mkvmerge-static-linux",
+  "version": "0.0.0",
+  "description": "A static binary for the 'mkvmerge' command for Linux.",
+  "main": "index.js",
+  "scripts": {
+    "test": ":"
+  },
+  "keywords": [
+    "mkvmerge",
+    "command",
+    "linux",
+    "static",
+    "binary"
+  ],
+  "author": "Joseph Werle <joseph.werle@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/little-core-labs/mkvmerge-static-linux.git"
+  },
+  "bugs": {
+    "url": "https://github.com/little-core-labs/mkvmerge-static-linux/issues"
+  },
+  "homepage": "https://github.com/little-core-labs/mkvmerge-static-linux#readme"
+}
