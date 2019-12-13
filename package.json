@@ -1,6 +1,6 @@
 {
   "name": "mkvmerge-static-linux",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A static binary for the 'mkvmerge' command for Linux.",
   "main": "index.js",
   "scripts": {
